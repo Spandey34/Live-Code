@@ -2,6 +2,8 @@
 
 This project takes a real-time collaborative code editor to the next level by integrating an **online compiler**! Users can write, edit, and run code in real-time with others, making it perfect for interviews, coding practice, and collaborative projects.
 
+🌐 **Live Demo**: [Click here to try it out](https://live-code-60ym.onrender.com) 
+
 ---
 
 ## 🛠️ Tech Stack
