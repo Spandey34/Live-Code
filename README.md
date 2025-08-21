@@ -1,38 +1,34 @@
-🚀 Real-Time Code Editor with Online Compiler
+# 🚀 Real-Time Collaborative Code Editor with Online Compiler
 
-A real-time collaborative code editor that lets multiple users code together, chat, and instantly compile & run programs online.
-This project takes a standard code editor to the next level by integrating online compiler APIs with real-time collaboration powered by Socket.IO.
+This project takes a real-time collaborative code editor to the next level by integrating an **online compiler**! Users can write, edit, and run code in real-time with others, making it perfect for interviews, coding practice, and collaborative projects.
 
-🛠️ Tech Stack
-Frontend
+---
 
-⚛️ React.js
+## 🛠️ Tech Stack
 
-🎨 CSS3
+- **Frontend**: React.js, CSS3  
+- **Backend**: Node.js, Express.js, Socket.IO  
+- **Compiler Integration**: Third-party APIs or custom backend execution logic  
+- **Deployment**: Render  
 
-Backend
+---
 
-🟢 Node.js
+## ✨ Features
 
-⚡ Express.js
+- 👨‍💻 **Real-Time Collaboration**: Multiple users can edit the same code editor simultaneously.  
+- ⚡ **Socket.IO Integration**: Ensures instant synchronization between clients.  
+- 🖥️ **Online Compiler**: Run code directly in the editor with integrated compiler support.  
+- 📂 **Multiple Language Support** (based on compiler API used).  
+- 🌍 **Deployed on Render** for global accessibility.  
+- 🔒 **Secure Backend** for safe code execution.  
 
-🔌 Socket.IO
+---
 
-Compiler Integration
+## 🔧 Installation & Setup
 
-✅ Third-party APIs (like Judge0, Sphere Engine, etc.)
+Follow these steps to run the project locally:
 
-✅ Or custom backend logic for running code securely
-
-Deployment
-
-🌐 Hosted on Render
-
-✨ Features
-
-✅ Real-time Collaboration — Multiple users can code together in the same editor.
-✅ Online Code Compilation — Run programs directly in the editor.
-✅ Multi-language Support — Compile in different programming languages.
-✅ Live Cursor & Updates — See what others are typing instantly.
-✅ Socket.IO Integration — Smooth and fast real-time syncing.
-✅ Clean UI/UX — User-friendly editor with syntax highlighting.
+### 1. Clone the repository
+```bash
+git clone https://github.com/Spandey34/Live-Code.git
+cd Live-Code
