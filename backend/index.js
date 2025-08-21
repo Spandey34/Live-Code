@@ -10,7 +10,7 @@ const server = http.createServer(app);
 //So that render cannot goes to sleep mode in deployment
 //This is a workaround to keep the server alive
 //It will ping the server every 30 seconds to keep it awake
-const url = `https://realtime-code-editor-final.onrender.com`;
+const url = `https://live-code-60ym.onrender.com`;
 const interval = 30000;
 
 function reloadWebsite() {
